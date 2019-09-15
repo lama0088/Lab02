@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Lab1</string>
-    <string name="hello_message">Hello World!</string>string>
-    <string name="ButtonText">I\'m a button</string>
+    <string name="hello_message">Look at my GUI</string>string>
+    <string name="ButtonText">Click here</string>
+    <string name="CheckBox">Check this out!</string>
+    <string name="ButtonOnClick">Why did you click?</string>
+    <string name="SwitchText">Switch On/Off</string>
 </resources>
